@@ -1,14 +1,18 @@
 [
   {
     "title": "Exploding Stars",
-    "id" : "exploding-stars"
+    "id" : "mini-exploding-stars"
   },
   {
-    "title": "Expanding Universe",
-    "id" : "expanding-universe"
+    "title": "A Window to the Stars",
+    "id" : "mini-window-to-the-stars"
   },
   {
-    "title": "Expoloring the Observable Universe",
-    "id" : "observable-universe"
+    "title": "The Expanding Universe",
+    "id" : "mini-expanding-universe"
+  },
+  {
+    "title": "Coloring the Universe",
+    "id" : "mini-coloring-the-universe"
   }
 ]
