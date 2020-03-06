@@ -1,16 +1,16 @@
 {
-  "id": "expand7",
-  "investigation": "expanding-universe",
-  "order": "07",
+  "id": "expanding2",
+  "investigation": "mini-expanding-universe",
+  "order": "01",
   "title": "Interpreting a Hubble Plot",
   "slug": "interpreting-a-hubble-plot-4/",
   "previous": {
     "title": "Interpreting a Hubble Plot",
-    "link": "/interpreting-a-hubble-plot-3/"
+    "link": "/interpreting-a-hubble-plot-1/"
   },
   "next": {
-    "title": "Interpreting a Hubble Plot",
-    "link": "/interpreting-a-hubble-plot-5/"
+    "title": "The Rubin Observatory Hubble Plot",
+    "link": "/lsst-hubble-plot-2/"
   },
   "layout": "TwoCol",
   "content": "<p>Click and drag on the graph to add a trendline to your Hubble plot.  Place your trendline where you feel it best fits your data. The slope of this trendline is known as Hubble's Constant.</p>",

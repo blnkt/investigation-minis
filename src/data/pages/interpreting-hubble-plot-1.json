@@ -1,16 +1,13 @@
 {
-  "id": "expand4",
-  "investigation": "expanding-universe",
-  "order": "03",
+  "id": "expanding1",
+  "investigation": "mini-expanding-universe",
+  "order": "00",
   "title": "Interpreting a Hubble plot",
   "slug": "interpreting-a-hubble-plot-1/",
-  "previous": {
-    "title": "Using Photometric Redshift to Measure Velocity",
-    "link": "/acquiring-the-data-2/"
-  },
+  "previous": { "title": "", "link": "" },
   "next": {
     "title": "Interpreting a Hubble plot",
-    "link": "/interpreting-a-hubble-plot-3/"
+    "link": "/interpreting-a-hubble-plot-4/"
   },
   "layout": "TwoCol",
   "content": "<p>You will begin by hunting for Type Ia supernovae in Rubin Observatory images of six galaxies. Then you will identify the galaxies themselves.  Finally we'll use the distances to the supernovae, and the recessional velocities of the galaxies to create a Hubble plot.</p>",
@@ -40,7 +37,7 @@
           "id": "252",
           "questionType": "prompt",
           "title": "Question #1",
-          "label": "<p>Once you have identied the supernova and galaxy the Hubble plot will slide out.  Use the graph axes to find where on the graph corresponds to the velocity and distance of the galaxy. Click on the plot to add a dot at the correct location for your data.</p>",
+          "label": "<p>Once you have identified the supernova and galaxy the Hubble plot will slide out.  Use the graph axes to find where on the graph corresponds to the velocity and distance of the galaxy. Click on the plot to add a dot at the correct location for your data.</p>",
           "answerPre": "<span>Selected: </span>",
           "answerAccessor": "hubblePlot"
         }
