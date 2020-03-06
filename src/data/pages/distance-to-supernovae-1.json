@@ -1,11 +1,11 @@
 {
-  "id": "12",
-  "investigation": "exploding-stars",
-  "order": "16",
+  "id": "2",
+  "investigation": "mini-exploding-stars",
+  "order": "01",
   "title": "Determining the Peak Apparent Magnitude of Supernova #4",
   "slug": "distance-to-supernovae-1/",
-  "previous": {"title": "Comparing Supernovae Light Curves", "link": "/searching-for-supernovae-4/"},
-  "next": {"title": "Determining the Peak Apparent Magnitude of Supernova #5", "link": "/distance-to-supernovae-1-1/"},
+  "previous": {"title": "Observing Supernovae ", "link": "/observing-supernovae/"},
+  "next": {"title": "Calculating the Distance to Supernovae", "link": "/distance-to-supernovae-2/"},
   "layout": "TwoCol",
   "content": "<p>In this part of the investigation, you will work only with Type Ia supernovae. As mentioned previously, Type Ia supernovae are special because they can be used to measure distances in the Universe. In this part of the investigation, you will work only with Type Ia supernovae and learn how to use them to calculate distances.</p>",
   "widgets": [{
