@@ -1,11 +1,19 @@
 :global {
   @include react-md-toolbars;
+
+  .header-primary {
+    &.md-background--primary {
+      background: $duskGray;
+    }
+  }
 }
 
 .header-inner {
   display: flex;
   justify-content: space-between;
+  width: 100%;
   max-width: $containerMaxWidth;
+  margin: 0 auto;
 }
 
 .logo-wrapper {
@@ -14,8 +22,8 @@
 }
 
 .site-logo {
-  width: 96px;
-  margin-left: 20px;
+  width: 228px;
+  margin-left: $minPadding;
 }
 
 .page-progress {
